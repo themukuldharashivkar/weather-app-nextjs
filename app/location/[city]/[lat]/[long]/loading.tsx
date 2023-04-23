@@ -11,7 +11,7 @@ function Loading() {
       <h1 className="text-4xl font-bold text-center mb-10 animate-pulse">
         Loading City Weather Information
       </h1>
-      <h2 className="text-xl font-bold text-center mb-10 animate-pulse">Hold on, while we are fetching data!</h2>
+      <h2 className="text-lg font-extralight text-center mb-10 animate-pulse">Hold on, while we are fetching data!</h2>
     </div>
   );
 }
